@@ -1,5 +1,5 @@
 <cfoutput>
-	<h1>Server Infomation: #rc.server.serverName#</h1>
+	<h1>Server Information: #rc.server.serverName#</h1>
 
 	<table>
 		<tbody>

@@ -1,7 +1,7 @@
 <cfoutput>
 	<a href="#buildUrl(action="main.printServer",queryString="serverId=#rc.serverId#")#" class="btn pdfPrintBtn"><i class="fa fa-file-pdf-o fa-lg"></i> Print</a>
 
-	<h1 class="page-header">Server Infomation: #rc.server.serverName#</h1>
+	<h1 class="page-header">Server Information: #rc.server.serverName#</h1>
 
 	<div id="tabs">
 		<ul>
